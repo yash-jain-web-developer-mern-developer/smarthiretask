@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "question": "Which is the smallest prime number?",
+      "choices": ["0", "1", "2", "3"],
+      "answer": "2"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "choices": ["WO", "HO", "H2O", "OH2"],
+      "answer": "H2O"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "choices": ["1912", "1920", "1905", "1898"],
+      "answer": "1912"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choices": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which of the following is the major element in earth crust?",
+      "choices": ["Silicon", "Oxygen", "Iron", "Aluminium"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which among the following country is known as “Land of White Elephant”?",
+      "choices": ["India", "Sri Lanka", "UAE", "Thailand"],
+      "answer": "Thailand"
+    },
+    {
+      "question": "What is the capital of Austria ?",
+      "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
+      "answer": "Vienna"
+    },
+    {
+      "question": "The term Ground Stroke is associated with which of the following games?",
+      "choices": ["Cricket", "Badminton", "Tennis", "Draughts"],
+      "answer": "Tennis"
+    },
+    {
+      "question": "What is the name of the biggest planet in our solar system ?",
+      "choices": ["Mars", "Jupiter", "Earth", "Mercury"],
+      "answer": "Jupiter"
+    }
+  ]
+}
